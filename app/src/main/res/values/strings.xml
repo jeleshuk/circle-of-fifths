@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Circle of Fifths</string>
+    <string name="left">Fourth</string>
+    <string name="right">Fifth</string>
+</resources>
